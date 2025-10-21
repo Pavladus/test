@@ -1,4 +1,4 @@
-package les_5;
+package lesson_2.les_5;
 
 public class l_5 {
 

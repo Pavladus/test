@@ -1,4 +1,4 @@
-package les_3;
+package lesson_2.les_3;
 
 public class l_3 {
     public static void printColor() {

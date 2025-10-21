@@ -1,4 +1,4 @@
-package les_1;
+package lesson_2.les_1;
 
 public class l_1 {
     public static void printThreeWords() {
